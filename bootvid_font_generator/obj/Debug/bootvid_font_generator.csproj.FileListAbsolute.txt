@@ -1,5 +1,0 @@
-C:\Users\Administrator\Documents\Visual Studio 2013\Projects\bootvid_font_generator\bootvid_font_generator\bin\Debug\bootvid_font_generator.exe.config
-C:\Users\Administrator\Documents\Visual Studio 2013\Projects\bootvid_font_generator\bootvid_font_generator\bin\Debug\bootvid_font_generator.exe
-C:\Users\Administrator\Documents\Visual Studio 2013\Projects\bootvid_font_generator\bootvid_font_generator\bin\Debug\bootvid_font_generator.pdb
-C:\Users\Administrator\Documents\Visual Studio 2013\Projects\bootvid_font_generator\bootvid_font_generator\obj\Debug\bootvid_font_generator.exe
-C:\Users\Administrator\Documents\Visual Studio 2013\Projects\bootvid_font_generator\bootvid_font_generator\obj\Debug\bootvid_font_generator.pdb

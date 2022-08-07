@@ -1,5 +1,0 @@
-D:\Yeni klasör\bootvid_font_generator\bootvid_font_generator\bin\x64\Release\bootvid_font_generator.exe.config
-D:\Yeni klasör\bootvid_font_generator\bootvid_font_generator\bin\x64\Release\bootvid_font_generator.exe
-D:\Yeni klasör\bootvid_font_generator\bootvid_font_generator\bin\x64\Release\bootvid_font_generator.pdb
-D:\Yeni klasör\bootvid_font_generator\bootvid_font_generator\obj\x64\Release\bootvid_font_generator.exe
-D:\Yeni klasör\bootvid_font_generator\bootvid_font_generator\obj\x64\Release\bootvid_font_generator.pdb
